@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanga-madurapperuma&show_icons=true&locale=en&layout=compact" alt="tharanga-madurapperuma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharanga-madurapperuma&show_icons=true&theme=Dracula&title_color=ededed&text_color=9e96df&bg_color=02001f&hide_border=true&cache_seconds=1800&locale=en" alt="tharanga-madurapperuma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tharanga-madurapperuma&show_icons=true&theme=TokiyoNight&title_color=ededed&text_color=9e96df&bg_color=02001f&hide_border=true&cache_seconds=1800&locale=en" alt="tharanga-madurapperuma" /></p>
 
 
 
