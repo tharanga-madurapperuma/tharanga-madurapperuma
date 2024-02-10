@@ -27,8 +27,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharanga-madurapperuma&show_icons=true&locale=en&layout=compact" alt="tharanga-madurapperuma" /></p>
 
-![tokyonight](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
-![tokyonight_repo](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
+![tokyonight](https://github-readme-stats.vercel.app/api?username=tharanga-madurapperuma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
+![tokyonight_repo](https://github-readme-stats.vercel.app/api/pin/?username=tharanga-madurapperuma&repo=github-readme-stats&cache_seconds=86400&theme=tokyonight)
 
 
 
