@@ -13,24 +13,30 @@
 </p>
 <br><br>
 <p>
-  🚀 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗪𝗲𝗯 & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗜𝗱𝗲𝗮𝘀 𝗶𝗻𝘁𝗼 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗥𝗲𝗮𝗹𝗶𝘁𝘆 🚀
+  🚀 𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗪𝗲𝗯 & 𝗠𝗼𝗯𝗶𝗹𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗶𝗻𝗴 𝗜𝗱𝗲𝗮𝘀 𝗶𝗻𝘁𝗼 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗥𝗲𝗮𝗹𝗶𝘁𝘆 🚀<br>
 
 Are you ready to elevate your digital presence and user experience? As a seasoned web and mobile developer, I specialize in turning innovative ideas into seamless, user-friendly applications. My mission is to create cutting-edge solutions that not only meet but exceed the expectations of clients and end-users.
-
-
-
-🛠️ 𝑬𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔:
-
-🔹 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
-Crafting intuitive and visually stunning user interfaces using 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, and 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁. My base framework is 𝗥𝗲𝗮𝗰𝘁.
-🔹 𝑀𝑜𝑏𝑖𝑙𝑒 𝐴𝑝𝑝 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡
-Creating cross-platform mobile applications with 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 on Android.
-🔹 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡
-Designing efficient and secure databases using 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 and 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.
-🔹 𝐴𝑃𝐼 𝐼𝑛𝑡𝑒𝑔𝑟𝑎𝑡𝑖𝑜𝑛
-Seamlessly connecting applications and services to enhance functionality and data flow.
 </p>
-
+<br><br>
+<p align='left'>
+🛠️ 𝑬𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔:<br></p>
+<p align='left'>
+🔹 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡<br></p>
+  <p align='left'>
+Crafting intuitive and visually stunning user interfaces using 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, and 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁. My base framework is 𝗥𝗲𝗮𝗰𝘁.<br></p>
+    <p align='left'>
+🔹 𝑀𝑜𝑏𝑖𝑙𝑒 𝐴𝑝𝑝 𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡<br></p>
+      <p align='left'>
+Creating cross-platform mobile applications with 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 on Android.<br></p>
+        <p align='left'>
+🔹 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 𝑀𝑎𝑛𝑎𝑔𝑒𝑚𝑒𝑛𝑡<br></p>
+          <p align='left'>
+Designing efficient and secure databases using 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 and 𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲.<br></p>
+            <p align='left'>
+🔹 𝐴𝑃𝐼 𝐼𝑛𝑡𝑒𝑔𝑟𝑎𝑡𝑖𝑜𝑛<br>
+              <p align='left'>
+Seamlessly connecting applications and services to enhance functionality and data flow.<br></p>
+</p>
 
 
 
