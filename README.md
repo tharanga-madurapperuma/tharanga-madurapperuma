@@ -52,13 +52,21 @@ Seamlessly connecting applications and services to enhance functionality and dat
 <br>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharanga-madurapperuma&langs_count=8&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharanga-madurapperuma&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharanga-madurapperuma&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharanga-madurapperuma&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharanga-madurapperuma&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tharanga-madurapperuma&theme=2077&utcOffset=8)
+
+
+
+
 
 <br>
 <br>
 
-![tokyonight](https://github-readme-stats.vercel.app/api?username=tharanga-madurapperuma&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
