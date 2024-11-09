@@ -53,20 +53,21 @@ Seamlessly connecting applications and services to enhance functionality and dat
 <br>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharanga-madurapperuma&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharanga-madurapperuma&theme=github_dark)
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tharanga-madurapperuma&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharanga-madurapperuma&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharanga-madurapperuma&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tharanga-madurapperuma&theme=2077&utcOffset=8)
 
 
-
+-->
 
 
 <br>
 <br>
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-user-contribution.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
+-->
 </div>
