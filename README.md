@@ -17,7 +17,9 @@
 
 Are you ready to elevate your digital presence and user experience? As a seasoned web and mobile developer, I specialize in turning innovative ideas into seamless, user-friendly applications. My mission is to create cutting-edge solutions that not only meet but exceed the expectations of clients and end-users.
 </p>
-<br><br>
+<br>
+<a href="https://www.buymeacoffee.com/tharanga.madurapperuma"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a drink&emoji=&slug=tharanga.madurapperuma&button_colour=14ebaa&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<br><br><br>
 <p align='left'>
 🛠️ 𝑬𝒙𝒑𝒆𝒓𝒕𝒊𝒔𝒆 𝑯𝒊𝒈𝒉𝒍𝒊𝒈𝒉𝒕𝒔:<br></p>
 <p align='left'>
